@@ -1,0 +1,19 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #counterValue {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    font-size: 16px;
+    padding: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+    background-color: blue;
+  }
+  

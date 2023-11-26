@@ -1,0 +1,27 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Optional: include only if you're using Yarn
+yarn-error.log
+
+# Environment variables
+.env
+
+# Output of 'npm pack'
+*.tgz
+
+# Optional: include only if you're using TypeScript
+*.tsbuildinfo
+
+# Optional: include only if you're using VSCode
+.vscode/
+
+# Electron specific
+/dist/
+/*.js
+/*.html
